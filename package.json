@@ -1,0 +1,24 @@
+{
+  "name": "learning-log",
+  "version": "1.0.0",
+  "description": "- Module 1: branches, commits, pull requests  yo mama so ugly",
+  "main": "today.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-kayzee/learning-log.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/j-kayzee/learning-log/issues"
+  },
+  "homepage": "https://github.com/j-kayzee/learning-log#readme",
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}
